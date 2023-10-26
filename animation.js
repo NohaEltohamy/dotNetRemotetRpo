@@ -1,5 +1,6 @@
 console.log('Test');
-addEventListener(){
+element.addEventListener("click", myFunction);
 
-    
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
 }
