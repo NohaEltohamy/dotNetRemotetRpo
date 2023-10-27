@@ -11,3 +11,6 @@ div {
   padding-left: 80px;
   border:solid 1px red;
 }
+ul li{
+  display: inline;
+}
